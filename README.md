@@ -3,7 +3,7 @@
 
 ![](https://github.com/mlf2020/LFPageViewController/blob/master/pageVc.gif)
 
-###使用两种实现方式
+### 使用两种实现方式
 
 `LFPageViewController `: 使用UIScrollView实现，手动管理控制器生命周期
 
